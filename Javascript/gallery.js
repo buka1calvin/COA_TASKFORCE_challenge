@@ -23,13 +23,13 @@ document.addEventListener("DOMContentLoaded", function () {
     galleryItem.className = "gallery-item";
 
     galleryItem.innerHTML = `
-      <img src="assets/images/${animal.image}" alt="${animal.name}">
+      <img src="assets/images/${animal.image}" alt="${animal.name}" class="gallery-image">
       <div class="gallery-item-content">
         <h1>${animal.name} <br/>${animal.title}</h1>
         <p>${animal.location}</p>
       </div>
       <div class="overlay">
-        <button>Know More <img src="assets/icons/Vector.svg" alt="" class="image"></button>
+        <button>Know More <img src="assets/icons/Vector.svg" alt="" class="button-image"></button>
       </div>
       `;
 
