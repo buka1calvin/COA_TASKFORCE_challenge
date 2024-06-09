@@ -320,7 +320,7 @@ const stringTransform = (inputText) => {
 
 ## How to Run
 1. Clone this repository.
-2. Open \`index.html\` in a web browser to view the interactive photo gallery.
+2. Open \`index.html\` in a web browser to view the interactive photo gallery, you can also use the link here: [Link Here](https://coa-taskforce-challenge-gallery.vercel.app/)
 3. Navigate to the \`/Challenges\` folder to view and run the coding challenge solutions.
 
 ## Folder Structure
