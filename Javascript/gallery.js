@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <p>${animal.location}</p>
       </div>
       <div class="overlay">
-        <button>Know More <img src="assets/icons/Vector.svg" alt="" class="button-image"></button>
+        <button>Know more <img src="assets/icons/Vector.svg" alt="" class="button-image"></button>
       </div>
       `;
 

@@ -114,17 +114,19 @@ body {
   background: transparent;
   border: none;
   display: flex; 
-  align-items: start;
-  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
   font-size: 14px; 
   transition: opacity 0.3s ease, transform 0.3s ease;
   margin-top: 10px;
   z-index: 4;
+  font-weight: 600;
 }
 
 .overlay .button-image {
-  width: 16px;
-  height: 16px;
+  width: 12px;
+  height: 12px;
 }
 
 .gallery-item:hover .overlay button {
